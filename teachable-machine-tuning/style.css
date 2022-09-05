@@ -1,0 +1,38 @@
+.highlight {
+  background-color: #ffff00;
+}
+
+.a {
+  background-color: #ff0000;
+}
+
+.b {
+  background-color: #00ff00;
+}
+
+.c {
+  background-color: #0000ff;
+}
+
+.d {
+  background-color: #ffff00;
+}
+
+.e {
+  background-color: #ff00ff;
+}
+
+.f {
+  background-color: #00ffff;
+}
+
+.background-noise {
+  background-color: #000000;
+  color: white;
+}
+
+body {
+  max-width: 700px;
+  margin: 0 auto;
+  background-color: lightblue;
+}
